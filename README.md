@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Ankit Pandey
 
-<!--
-**ankitpandey1720/ankitpandey1720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer  
+💻 Results-driven MERN Stack Developer with hands-on experience in building scalable, user-centric web applications using MongoDB, Express.js, React.js, and Node.js. Strong expertise in JavaScript and modern frameworks, with proven ability to develop full-stack solutions including ELMS, OMS, and e-commerce platforms. Passionate about clean code, performance optimization, and continuous learning. Committed to delivering high-quality products in fast-paced environments.
+📍 India  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Express
+- RestAPI
+- SwaggerAPI
+- Socket.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 Projects
+- E-Commerce App
+- OMS-Offline Management System
+  
+
+## 📫 Contact
+- LinkedIn:www.linkedin.com/in/ankit-pandey-64b8602a4
+- Email: ankitpandey@gmail.com
+
