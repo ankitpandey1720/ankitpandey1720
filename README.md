@@ -16,7 +16,7 @@
 
 
 ## 📌 Projects
-- E-Commerce App
+- E-Commerce
 - OMS-Offline Management System
   
 
